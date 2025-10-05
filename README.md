@@ -4,7 +4,7 @@ A 17M parameter Transformer model built and trained from scratch to generate chi
 
 ## ✨ Live Interactive Demo ✨
 
-The best way to see this toy model in action is through the live demo hosted on Hugging Face Spaces. **Click the badge below or the screenshot to try it out!**
+The best way to see this toy model in action is through the live demo hosted on Hugging Face Spaces. **Click [HERE](https://huggingface.co/spaces/yang-ruan/tinystories-llm-from-scratch) or the screenshot to try it out!**
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/yang-ruan/tinystories-llm-from-scratch)
 
