@@ -1,0 +1,16 @@
+# Checkpoints
+checkpoints/
+
+# Data files (especially large .npy files)
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Slurm output files
+slurm-*.out
+slurm-*.err
+
+# Pytest cache
+.pytest_cache/

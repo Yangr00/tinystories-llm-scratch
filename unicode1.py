@@ -1,0 +1,10 @@
+print(chr(0))
+print("this is a test" + chr(0) + "string")
+test_string = "hello! こんにちは!"
+utf8_encoded = test_string.encode("utf-8")
+print(utf8_encoded)
+print(type(utf8_encoded))
+list(utf8_encoded)
+print(len(test_string))
+print(len(utf8_encoded))
+print(utf8_encoded.decode("utf-8"))
